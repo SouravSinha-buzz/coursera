@@ -1,2 +1,2 @@
-# corsera
+# coursera
 assignment of coursera
